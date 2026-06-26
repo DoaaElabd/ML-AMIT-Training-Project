@@ -9,7 +9,6 @@ This project is part of a machine learning course. The goal is to collect data, 
 * `data/` – Raw and processed datasets.
 * `docs/` – Metadata file.
 * `notebooks/` – Jupyter notebooks used for exploration and model development.
-* `src/` – Python scripts containing reusable functions.
 * `models/` – Saved trained models.
 
 ## Technologies
