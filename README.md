@@ -22,8 +22,8 @@ This project is part of a machine learning course. The goal is to collect data, 
 
 ## Team Members
 
-* Your Name
-* Teammate's Name
+* Doaa Maher Mostafa Elabd
+* Marwa
 
 ## Status
 
