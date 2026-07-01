@@ -7,7 +7,7 @@ This project is part of a machine learning course. The goal is to collect data, 
 ## Project Structure
 
 * `data/` – Raw and processed datasets.
-* `metadata/` – Metadata file.
+* `docs/` – Metadata file.
 * `CreditApprovalApp/` – Jupyter notebooks containg preprocessing, training. As well as web app using Flask.
 
 ## Technologies
