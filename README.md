@@ -8,7 +8,7 @@ This project is part of a machine learning course. The goal is to collect data, 
 
 * `data/` – Raw and processed datasets.
 * `metadata/` – Metadata file.
-* `CreditCardAcounting/` – Jupyter notebooks containg preprocessing, training. As well as web app using Flask.
+* `CreditApprovalApp/` – Jupyter notebooks containg preprocessing, training. As well as web app using Flask.
 
 ## Technologies
 
