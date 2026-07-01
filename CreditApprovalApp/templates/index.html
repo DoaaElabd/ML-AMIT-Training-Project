@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Credit Approval Model</title>
+</head>
+<body>
+
+<h2>Enter Features</h2>
+
+<form action="/predict" method="POST">
+
+    {% for i in range(1, 15) %}
+        <input type="text" name="A{{ i }}" placeholder="A{{ i }}" required>
+        <br><br>
+    {% endfor %}
+
+    <button type="submit">Predict</button>
+</form>
+
+{% if prediction %}
+    <h3>Result: {{ prediction }}</h3>
+{% endif %}
+
+</body>
+</html>
