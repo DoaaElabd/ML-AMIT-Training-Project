@@ -4,7 +4,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-with open("saved-model.pickle", "rb") as f:
+with open("best_credit_card_model", "rb") as f:
     model = pickle.load(f)
 
 
