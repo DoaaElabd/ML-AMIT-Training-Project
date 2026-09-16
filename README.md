@@ -26,4 +26,4 @@ This project is part of a machine learning course. The goal is to collect data, 
 
 ## Status
 
-🚧 Project in progress.
+Project Complete.
